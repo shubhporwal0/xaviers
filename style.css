@@ -1,0 +1,31 @@
+body {
+    background-image: url(https://img.wallpapersafari.com/desktop/1024/576/46/12/MIDX2b.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(239, 200, 109);
+}
+
+/*------- comments inside css --- */
+h1 {
+    color: rgb(163, 82, 82);
+
+}
+
+h1#special {
+    color: rgb(163, 82, 82);
+    background-color: rgb(255, 255, 255);
+}
+
+em {
+    text-decoration: underline;
+}
+
+p {
+    font-family: verdana|Cambria;
+    color: rgb(34, 52, 210);
+}
+
+img {
+    border-radius: 50px;
+    border: black 3px dashed;
+}
